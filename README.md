@@ -2,10 +2,6 @@
 
 A secure, cross-platform license management library for Go applications with hardware-based PC identification and encrypted license files.
 
-or
-
-compile it for a cross-platform CLI tool.
-
 
 ## Features
 
